@@ -12,6 +12,7 @@ Uporabni linki
  * Slick - http://slick.typesafe.com/
  * Akka - http://akka.io/
  * TypeSafe stack - http://typesafe.com/stack
+ * Git - http://git-scm.com/
 
 Kratki opisi
 -------------
@@ -39,4 +40,9 @@ Akka je revolucioaren pristop k pisanju vecnitnih aplikacij. Z modelom Actor (ig
 ###TypeSafe stack
 
 TypeSafe je podjetje, ki podpira vse izmed zgoraj nastetih komponent in jih zdruzuje v t.i. TypeSafe Stack - sklad jezikov, orodij in knjiznic za popolno podporo izdelavi aplikacij tudi za najbolj zahtevna produkcijska okolja.
+
+
+###Git
+
+Git je moderno orodje za nadzor nad verzijami kode (ali cesar koli drugega). Omogoca hranjenje zgodovine sprememb in napredne mehanizme za programiranje v ekipi, kjer vec ljudi dela na istem projektu (isti bazi kode - codebase). Obstajajo spletni portali, ki omogocajo shranjevanje in objavljanje kode (Public-OpenSource: GitHub, privatni: GitLab).
 

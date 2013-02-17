@@ -12,7 +12,7 @@ Uporabni linki
  * Slick - http://slick.typesafe.com/
  * Akka - http://akka.io/
  * TypeSafe stack - http://typesafe.com/stack
- * Git - http://git-scm.com/ http://upcottle.github.com/learnGitBranching/
+ * Git - http://git-scm.com/ http://pcottle.github.com/learnGitBranching/
 
 Kratki opisi
 -------------
